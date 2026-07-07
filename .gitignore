@@ -1,0 +1,13 @@
+# Python Virtual Environment
+backend/venv/
+
+# AI Model Weights
+*.pt
+
+# Node/Frontend Dependencies & Build Folders
+**/node_modules/
+frontend/.next/
+frontend/out/
+
+# Env files (keamanan data)
+.env*
